@@ -1,7 +1,6 @@
-* {
-    margin: 0;
-    padding: 0;
+function getUserInput() {
+    var jobType = document.getElementById('powerSupply').value;
+    document.getElementById('')
 }
-form {
-    margin: 20px 0;    
-}
+
+
